@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salus populi, desperately ill of a languishing consumption: the causes discovered, the cure discoursed; by Theophilus P.</title>
+            <author>P., Theophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93750</idno>
+            <idno type="STC">Wing S513</idno>
+            <idno type="STC">Thomason E476_18</idno>
+            <idno type="STC">ESTC R203490</idno>
+            <idno type="EEBO-CITATION">99863436</idno>
+            <idno type="PROQUEST">99863436</idno>
+            <idno type="VID">115638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115638)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Salus populi, desperately ill of a languishing consumption: the causes discovered, the cure discoursed; by Theophilus P.</title>
+                  <author>P., Theophilus.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Theophilus P. is a pseudonym.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115638:1" rendition="simple:additions"/>
+            <p>Salus Populi, <hi>Deſperately ill</hi> Of a languiſhing Conſumption: THE CAUSES <hi>DISCOVERED,</hi> THE CURE
+<hi>DISCO<g ref="char:V">Ʋ</g>RSED;</hi>
+            </p>
+            <p>By THEOPHILUS P.</p>
+            <q>
+               <p>If this Counſell or this Work be of men, it will come to nought:</p>
+               <p>But if it be of God, ye cannot overthrow it; leſt happily ye be found even to fight againſt God,</p>
+               <bibl>ACTS 5.38,39.</bibl>
+            </q>
+            <q>
+               <bibl>VIRG.</bibl>
+               <l>Jam nova Progenies Coelo dimititur—</l>
+            </q>
+            <p>Printed at LONDON, 1648.</p>
+         </div>
+         <div type="preface">
+            <pb n="3" facs="tcp:115638:2"/>
+            <head>
+               <hi>A Jove Principium.</hi> England's Genius: TO THE Engliſh Army, and to all other true hearted Engliſh-men, That deſire and endevor the Recovery of SALVS POPVLI.</head>
+            <opener>
+               <salute>Good Generall, and honeſt Gentlemen, my Darlings;</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>ALUS POPULI</hi> through the redun<g ref="char:EOLhyphen"/>dant humours of injuſtice, ſuper<g ref="char:EOLhyphen"/>ſtition, oppreſſion and hypocriſie, hath been long afflicted; and un<g ref="char:EOLhyphen"/>dertaken by skilfull Phiſitians (as they were voyced and profeſt themſelves) to recover her; but they to increaſe their own
+<pb n="4" facs="tcp:115638:3"/>benefit finding her to be opulent) have neglect<g ref="char:EOLhyphen"/>ed, and retarded her cure, by which her diſtem<g ref="char:EOLhyphen"/>per is increaſed and a dangerous and extreame flux of blood added to her diſeaſe for which ſhe declines them. You about twelve months ſince gave her a gentle purge, which did only move the Malignant humours, not carry them away, which increaſed her diſeaſe; you have lately ſet forth ſome bills, that makes her hopefull; ſhe is willing to be your Patient, truſting, you will according to your ingagement, only minde her recovery; and not your own intereſts. Have a care of her, for ſhe is precious in the eyes of the Almighty. I have ſent you by her poor ſervant <hi>Theophilus,</hi> ſuch Simples as grew in her own garden; they be no Drugs from <hi>Eutopia,</hi> or the new <hi>Atlantis,</hi> they may be of uſe, as your judgement ſhall prepare them, and proportion the Doſe.</p>
+            <closer>God give a bleſſing to your endevors.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:115638:3"/>
+            <head>SAL<g ref="char:V">Ʋ</g>S POP<g ref="char:V">Ʋ</g>LI Deſperately ill of a languiſhing CONS<g ref="char:V">Ʋ</g>MPTION, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>Ngland,</hi> that was lately the Glory of Nations, the Refuge of her Friends, and Terrour of her Ene<g ref="char:EOLhyphen"/>mies, how is ſhe become the pi<g ref="char:EOLhyphen"/>ty of ſuch as affect her, the ſcorn and prey of her Adverſaries! thy ſelf, through thy Natives Di<g ref="char:EOLhyphen"/>viſions, giving Forraigners hope to attain that which they never durſt have attempted, hadſt thou been in ſome meaſure united. But Time that pe<g ref="char:EOLhyphen"/>riods all Governments, is now determining of thine, by which this Political Eſtate flouriſhed: It is now corrupted, rotten, and waſted, that little or nothing remains of it, ſcarce ſo much as was left of <hi>Jezabel,</hi> the hands and feet. It is like a ſometime glorious Palace, that for want of ſutable Inhabi<g ref="char:EOLhyphen"/>tants, and due repairing, through the injury of Time, and evil diſpoſed people continuing of ſpoil and waſte upon it to enrich themſelves, have brought it to deſolation; ſo that the heirs of it<pb n="6" facs="tcp:115638:4"/>(Engliſhmen) cannot with ſecurity live in it; but a Rafter of Peerage, a Beam of Preſbytery, or a Pillar of Independency may chance to cripple them, if not knock out their brains; 'tis ſo diſ<g ref="char:EOLhyphen"/>joynted and crazed by the windes of Faction and Diviſion, that it were an indiſcretion to think of repairing it; it would require ſo great pains and charge, and yet be neither uſefull nor ſeemly: Therefore, leſt a Tempeſt blow it down, let judi<g ref="char:EOLhyphen"/>cious workmen orderly take it in pieces, to pre<g ref="char:EOLhyphen"/>vent danger and loſſe, and ſave ſuch materials as are ſolid and uſeful; and what among them is rot<g ref="char:EOLhyphen"/>ten and rubbiſh, let them be for the fire or the Dunghil.</p>
+            <p>To begin at the top, as it now ſtands: Look up<g ref="char:EOLhyphen"/>on the Lords Houſe, or Houſe of Peers. I diſpute not what they were in their firſt Inſtitution, but ſurvey them as they are at preſent. Nobility was firſt diſpenſed for a reward of Vertue: Do but conſider how they are multiplied ſince King <hi>James</hi> his beginning; the Duke of <hi>Buckingham,</hi> but a yonger Brother of an indifferent Family, became Minion to the Father and the Son; and what a crowd he brought into the Houſe of Peers! as the Earls of
+<hi>Angleſea, Denbigh, Middleſex, Man<g ref="char:EOLhyphen"/>cheſter, Newport, Portland,</hi> &amp;c. But <hi>Ubi latet Virtus</hi> in theſe mens Anceſtors or themſelves; Or for what cauſe they were raiſed, I at preſent examine not, but behold them as they act for <hi>Salus Po<g ref="char:EOLhyphen"/>puli.</hi> The Common-wealth had better have gi<g ref="char:EOLhyphen"/>ven many millions, then have had that ſmall di<g ref="char:EOLhyphen"/>ſtance of place between the Houſe of Peers and<pb n="7" facs="tcp:115638:4"/>Houſe of Commons: For within theſe eight yeers, what with Conferences, Debates, Meſſa<g ref="char:EOLhyphen"/>ges and Meſſengers of their own, how little have they done, and how much and many Buſineſſes have they congeſted and heaped together? that had each individuall the integrity of <hi>Job,</hi> and wiſ<g ref="char:EOLhyphen"/>dom of <hi>Solomon,</hi> they can hardly do us right. What tugging, pulling, and drawing divers wayes, as each faction can make its intereſt ſtrong? whereas if <hi>Salus Populi</hi> is to be conſidered, why may not one room hold them without ſuch punctilioes of Honour? where it may come to a preſent conclu<g ref="char:EOLhyphen"/>ſion, whether it be good for the Common-wealth or not; where Prince, Peers and Commons may all at one time agree. But if they ſhall inſiſt upon their Priviledge <hi>Jure Haereditario,</hi> I cannot ſee but that Arch-Biſhops and Biſhops had as ample and anci<g ref="char:EOLhyphen"/>ent a preſcription <hi>Jure Divino,</hi> to their almoſt era<g ref="char:EOLhyphen"/>dicated Hierarchie. And though old cuſtoms keep faſt roots; yet when they prove obnoxious to <hi>Sa<g ref="char:EOLhyphen"/>lus Populi,</hi> then <hi>malus uſus abolendus:</hi> Therefore let one room contain you for your Debates and Re<g ref="char:EOLhyphen"/>ſults, and let none be admitted, but ſuch whoſe ver<g ref="char:EOLhyphen"/>tue ſhall give aſſured proof, that they are worthy of ſo high a calling and ſo great a truſt; and if they ſhall merit from the Common-wealth, either for Councel or Action, let them according to their de<g ref="char:EOLhyphen"/>ſert have compenſation out of the publick Trea<g ref="char:EOLhyphen"/>ſury; ſo that their Poſterity ſhall fare the better for their Anceſtors vertue: But their Iſſue which may prove diſſolute or worthleſſe, ought to have no claim to their Fathers ſeat in Counſel; for that<pb n="8" facs="tcp:115638:5"/>in time will revive the old Corruption: Let their vertue only give them admiſſion; if they be of a generous ſpirit, it will ſtirre up in them a glo<g ref="char:EOLhyphen"/>rious emulation, to outgoe, at leaſt to imitate their Progenitors worthy undertakings. Thus ſhall <hi>Salus Populi</hi> be furniſhed with fitting Ser<g ref="char:EOLhyphen"/>vants able to diſcharge the Truſt repoſed in them.</p>
+            <p>The next peece that fals in courſe, that may be made to ſerve for uſe or ornament, to raiſe this new Fabrick upon the old foundation, (and are worthy of reſerving) are ſuch members of the Commons, as have endevoured to cheriſh <hi>Salus Populi;</hi> they have been neareſt related to her, and by her have had her grand Truſt repoſed in them; but how performed, and by whom obſtructed, the world takes too much notice of it. But how can it be otherwiſe? the courſe of Elections duly conſi<g ref="char:EOLhyphen"/>dered, which have the tracts of tyranny that ſtill re<g ref="char:EOLhyphen"/>main in them: for why ſhould free-holders or cor<g ref="char:EOLhyphen"/>porations only have voyces in the choyce? and not alſo the meaneſt he that lives, if indued with an underſtanding to diſtinguiſh between good and evil. Is it juſt that any ſhould be obedient to that Law which he never aſſented to? <hi>Job</hi> left a do<g ref="char:EOLhyphen"/>ctrine to the contrary, Chap. 31. Verſ. 13, 14, 15. The next inconvenience is, the diſproportionable diſtribution of Burgeſſes, as they at preſent ſtand. What though they plead Antiquity for their Charters? Circumſtance of time and place make great differences and alterations; for that which is neceſſary at one time in a place, may be<pb n="9" facs="tcp:115638:5"/>deſtructive at another time in the ſame place; tis likely at the firſt, when thoſe grants to ſeverall Corporations were made, they were then flouriſh<g ref="char:EOLhyphen"/>ing and populous, which now lie ruin'd and waſted; for inſtance, <hi>Dunwich</hi> ſometime the Regall Seat of the Eaſt Angles, now a poore Sea-devoured-Towne, conſiſting of a few fiſhing Cottages;
+<hi>Ryſing</hi> in <hi>Norfolk</hi> more inconſiderable then that; there are many ſcores of Corporations of the like condition. <hi>Seges est ubi Troja fuit.</hi> There<g ref="char:EOLhyphen"/>fore <hi>Sublatâ cauſâ tollitur effectus,</hi> when they ceaſe to be what they were in their firſt inſtitution, <hi>detur digniori.</hi> The laſt and greateſt inconvenience is the manner and way of Electing: Tumultuary Facti<g ref="char:EOLhyphen"/>on and Parties bandying againſt each other; what canvaſing, plodding, plotting, contriving, by friends, letters, bribings, drinkings, feaſtings, are com<g ref="char:EOLhyphen"/>monly uſed and employed to obtain a Burgeſhip! I have been grieved to ſee it, and am aſham'd to ſpeak what ſtrong deſires, labours, and paines have been taken (in my eſteeme) by the beſt of men to gaine ſuch places. I hope it hath been to keep out a worſe, that hath aſpired to it, and not to ſa<g ref="char:EOLhyphen"/>tisfie their own ambition. Tis an eaſie mat<g ref="char:EOLhyphen"/>ter to find a fault, but a moſt difficult and intricate buſineſſe to redreſſe a miſchiefe, eſpecially of this ſuperlative nature. Here I were at a <hi>ne plus ultrà,</hi> had I not a Divine hand to uphold me, and to light and lead me through this dark Labyrinth; all what hath preceded, is mans, and may be ſub<g ref="char:EOLhyphen"/>ject to errour: but what followes, is a rule from God, and ought to be obeyed by you; for it is a<pb n="10" facs="tcp:115638:6"/>Divine, poſitive, abſolute Inſtitute, given, conti<g ref="char:EOLhyphen"/>nued, approved by God and his Chriſt. Take it briefly, <hi>Make your Elections by Lots;</hi> this is the way that God divided Lands by, by theſe he de<g ref="char:EOLhyphen"/>tected <hi>Achan</hi> the Malefactor, by theſe he enthroned <hi>Saul,</hi> by theſe he diſcovered the delinquent
+<hi>Ionah,</hi> by theſe he puts ends to controverſies, by theſe hee diſpoſed of his Sonnes garments, by theſe af<g ref="char:EOLhyphen"/>ter his Sonnes
+<hi>Conſummatum est,</hi> when his elected Veſſels the Apoſtles and Diſciples (after his Aſcention) had proceeded in their choyce for a ſucceſſor to ſupply <hi>Iudas</hi> his Apoſtleſhip as farre as true zeal and humane prudence could direct, two Competitors ſtood, the Lot fell to
+<hi>Mathias;</hi> I know nothing left more plaine and abſolute unto us, and leſſe taken up; yet S. <hi>Paul</hi> writes, <hi>theſe things were left for our Examples.</hi> The Admini<g ref="char:EOLhyphen"/>ſtration of the Sacraments <hi>de modo,</hi> we are not agreed upon; ſome will have the one performed by dipping, others by ſprinkling: The other, taken as our Saviour at Supper, others at dinner; ſome ſitting, others kneeling, a third ſtanding; but this Rule is only uſed in all difficulties, both before and ſince our Saviours Aſcention, and therefore affords no diſpute againſt it. The not uſing of it, I feare, is the maine cauſe of our pu<g ref="char:EOLhyphen"/>niſhment. S.
+<hi>Iames</hi> tels we ask, and receive not becauſe we ask amiſſe; we have miſſ'd the true way all this time, therefore have we been thus betrayed in our Elections, by Apoſtates and Hypocrites; and untill you ſubmit to this preſident which Al<g ref="char:EOLhyphen"/>mighty God left you, uſe and employ the utmoſt<pb n="11" facs="tcp:115638:6"/>circumſpection and reaſon that you can, yet you ſhall entertaine into your Councels Judaſſes, Hy<g ref="char:EOLhyphen"/>pocrites, Atheiſts, Devils incarnate, that ſhall en<g ref="char:EOLhyphen"/>ter among you in ſheeps cloathings, but as Wolves they tear, rend and cruſh you into pieces. This I am confident is agreeable to Gods Spirit, and will be acceptable unto him, and he will poure forth his bleſſing accordingly. I undertake not to direct; but what apprehenſions it hath pleaſed the Lord to give me, that am the weakeſt of men, I ſhall out of my cordiall affections to my diſtreſſed Coun<g ref="char:EOLhyphen"/>trey, lay down in perſuance of this Divine Inſti<g ref="char:EOLhyphen"/>tution.</p>
+            <p>You have all gone aſtray, and not performed the truſt according to your own undertakings, and our expectation, but have ſuffered us to be<g ref="char:EOLhyphen"/>come much more miſerable, then you found us: Therefore before the Lords wrath break forth againſt you, and you be ſcattered from thoſe ſlip<g ref="char:EOLhyphen"/>pery places, where you ſit, humble your ſelves be<g ref="char:EOLhyphen"/>fore him, and
+<hi>kiſſe the Sonne,</hi> by being obedient unto him, in embracing his appointed Rule. In order unto which, reſolve upon a determinate time to conclude your own Sitting, and limit a ſet time for another Parliament to beginne, in which allow all the Natives and Denizens a free voyce in their choyce of their Repreſentatives; next diſtribute and alter according to your wiſ<g ref="char:EOLhyphen"/>domes the number of Burgeſſes, as ſhall be moſt conſiſtent with each Counties intereſt through<g ref="char:EOLhyphen"/>out the whole Kingdome: Laſtly, iſſue forth your Summons for Members to be choſen in ſome
+<pb n="12" facs="tcp:115638:7"/>courſe, as may be moſt agreeing to Gods Rule; as for example, if you ſhould proportion ten Di<g ref="char:EOLhyphen"/>viſions for the County of
+<hi>Eſſex,</hi> two Members in each Diviſion; after the Sheriffe hath your Writ, let him iſſue out his Warrants to the high Conſtables of each Diviſion, of the certain day and place, then the high Counſtables theirs, to the under-Conſtables of every Pariſh, where let every man have his free voyce in chuſing two Pariſh Electors, which are to be ſent from the Pa<g ref="char:EOLhyphen"/>riſh to the Diviſion: Now if the Inhabitants ſhall be divided into ſeverall intereſts, ſo that four Competitors ſtand, then let them come to the Lot, which may be performed in ſome ſuch way as this; they having proceeded as farre as judge<g ref="char:EOLhyphen"/>ment and reaſon can carry them, they ought with prayer and all humility, to reſign the Contro<g ref="char:EOLhyphen"/>verſie to bee decided by God, who is the only Searcher of hearts, who will vndoubtedly upon ſuch an humble reſignation, diſpoſe of the Lot to his own glory and his peoples good. In Order to which, a child of ſix or ſeven years old, may draw the name of him out of a Box or Bag, that ſhall firſt come to the Lot; ſo the ſecond, third, and fourth; this to avoid exceptions of Priority of calling to the Lot; the manner of the Lot it ſelfe, may bee performed after ſome ſuch way as this; Let there be an Inſtrument made into which two ſilver Bullets, and two golden Bullets are put; they being ſome time tumbled and ſhaked together, after the boy hath drawn the firſt name, a ſpring lets forth one Bullet, which if a ſilver one, hee is<pb n="13" facs="tcp:115638:7"/>rejected, if a golden one, he ſtands; theſe being thus choſen, repaire to the Diviſion at the appoin<g ref="char:EOLhyphen"/>ted time, where they Elect Members, where if they be divided, as before, the ſame courſe as be<g ref="char:EOLhyphen"/>fore is to be taken.</p>
+            <p>This Rule may be emproved to the ſatisfying of all intereſts, in the choyce of all Officers and Magiſtrates throughout the whole Kingdome. What juſt exception can be taken at this way, in which as much of reaſon is uſed as can be, and when all men according to their diſtinct affections ſhall have freedom of Nomination, and the Party ſo nominated, ſhall have equall admittance to the Lot? only after we poore blind mortals have ac<g ref="char:EOLhyphen"/>cording to our weak judgements and corrupt af<g ref="char:EOLhyphen"/>fections preferd who beſt pleaſes us: we in our conteſt ſubm't to God to reconcile us, by diſpoſing of the Lot according to his only All ſeeing Pro<g ref="char:EOLhyphen"/>vidence, to ſuch a perſon as he judges meet for us.</p>
+            <p>Some perhaps will be ready to make empty and vaine Objections; But in anſwer to all that may be raiſed, let ſuch but eye who aſſumes the diſpoſe of the Lot to himſelfe only, and let them be diſtruſt<g ref="char:EOLhyphen"/>full if they can, unleſſe they bee Pagans that make Chance or Fortune a God. To carnall and am<g ref="char:EOLhyphen"/>bitious men, this will be a great vexation; what though I make friends, and a ſtrong Party for my nomination, yet the Lot will not, cannot be bribed or circumvented, it fruſtrates all my endeavours and deſigns. If thou have any part of a Chriſtian in thee, be contented, for it is the Lords doing,<pb n="14" facs="tcp:115638:8"/>and when thou art fitted for it, the Lord will call thee by it. This is the onely way to ſuppreſſe all Court craft, all faction, avarice and ambition; this is the way that God will owne us in for his people, when our eyes are towards him, and our dependence onely upon him, if the Lord ſhall in his mercy to ſave you from deſtruction put it into your hearts to walk in this way. During the time that ſhall intervene betweene the ending of this Parliament and the beginning of another, make choice of the uprighteſt and wiſeſt Compatriots to direct and govern the people, that you may not for the honour of Parliaments ſeem to doe things (as you have too often done) out of fear and forced to do it. Theſe being performed by you, in future provide for particular Intereſts, that have ſuffered much by Committees of Parliament; for if a party cannot be made by friends, or facti<g ref="char:EOLhyphen"/>on, the number that makes a Committee may be birds of a feather, and report the matter to the Houſe as they affect, or diſtaſt the parties; the parties moſt injured many times undergoe cen<g ref="char:EOLhyphen"/>ſure, the Houſe concluding them upon the Com<g ref="char:EOLhyphen"/>mittees report; to avoid which abuſe, let the parties have a certain day ſet them, and an houre allowed them to ſhew cauſe why they ſhould not be concluded according to the Committees re<g ref="char:EOLhyphen"/>port, and there receive your finall ſentence; thus ſhall Iuſtice be uprightly executed, and no man have cauſe to complain.</p>
+            <p>The laſt acceptable work you can do for this exhauſted waſted Common-wealth, is, by Com<g ref="char:EOLhyphen"/>miſſioners<pb n="15" facs="tcp:115638:8"/>Itenerants, to call all Money-mongers to an exact account, and there will be a conſidera<g ref="char:EOLhyphen"/>ble Sum regained from thoſe miſerable wretches (that have defrauded us) to eaſe the preſent bur<g ref="char:EOLhyphen"/>then of the people, as will bee eaſily made to ap<g ref="char:EOLhyphen"/>peare, if you will give a reall encouragement thereunto. I had not thus preſumed to have been ſo free, but that in the beginning of this Parlia<g ref="char:EOLhyphen"/>ment, a Grandee told me it was lawfull for any man to propound, it was you onely could de<g ref="char:EOLhyphen"/>termine.</p>
+            <p>A word to the Army, <hi>Verbum Sapienti,</hi> I will be <hi>Canis ad Nilum.</hi> Victory brings a very ſhort glory, where Government is imperfect. You know warres are beſt overcome, either by preventing of an Enemy, or by diverting of him. Principally con<g ref="char:EOLhyphen"/>ſider that dangers haſty and ſudden, ought not to ſuffer delay, ſudden miſchiefes require ſpeedy remedies; You have a neceſſity upon you, which is ſufficient to make you reſolute.</p>
+            <q>
+               <l>If the Army grow diſtruſtfull,</l>
+               <l>They will ceaſe to be ſucceſſefull.</l>
+            </q>
+            <list>
+               <head>Queries.</head>
+               <item>1. Whether did the State of <hi>England</hi> doe well in beheading the Queen of <hi>Scots,</hi> for privily endeavor<g ref="char:EOLhyphen"/>ing with Confederates in this Kingdome to diſturbe the peace thereof?</item>
+               <item>2. Whether doth the State of <hi>England</hi> doe well in not beheading Duke <hi>Hambleton,</hi> who actually invaded<pb n="16" facs="tcp:115638:9"/>this Kingdome with homebred Traytors, and a forraign Army, but instead thereof Vote a mulct of 100000 <abbr>l.</abbr> upon him when they can get it, to put in the bottomleſſe bag with <hi>Wallers</hi> 10000 <abbr>l.</abbr> when
+<hi>Chaloner</hi> and <hi>Tomkins</hi> were hang'd? look to him Army, for theſe things God viſits.</item>
+               <item>3. Whether did the State of <hi>England</hi> doe well in affording Aide to the late honeſt Minor Party in the Parliament of
+<hi>Scotland,</hi> against the major corrupted <hi>Hambletonian</hi> Party?</item>
+               <item>4. Whether ought not all honeſt upright conſcienti<g ref="char:EOLhyphen"/>ous men in Parliament and Kingdome, doe the like againſt the Major corrupted Party for Recovery of <hi>Salus Populi?</hi>
+               </item>
+            </list>
+            <trailer>Jovis omnia plena.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
